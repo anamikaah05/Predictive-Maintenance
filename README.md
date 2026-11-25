@@ -110,6 +110,15 @@ streamlit run app.py
 
 The system helps identify potential machine failures and estimate torque values using machine learning techniques, supporting better maintenance planning and machine monitoring.
 
+## Application Screenshots
+
+
+
+
+### Prediction Results
+![Results](prediction_result1.png)
+![Results](prediction_result2.png)
+
 ## 👩‍💻 Author
 
 **Anamika R**
